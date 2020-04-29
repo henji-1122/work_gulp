@@ -1,0 +1,23 @@
+{
+  "name": "work_gulp",
+  "version": "1.0.0",
+  "description": "work_gulp",
+  "main": "index.js",
+  "repository": "git+https://github.com/henji-1122/work_gulp.git",
+  "author": "Wangxc",
+  "scripts": {
+    "clean": "gulp clean",
+    "build": "gulp build",
+    "develop": "gulp develop"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "popper.js": "^1.16.1"
+  }
+}
